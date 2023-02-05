@@ -31,3 +31,9 @@ pip install tune-sklearn
 pip install modisco-lite --no-deps
 pip install skorch
 ```
+
+## gkm-svm
+
+## memesuite
+
+## HOMER
